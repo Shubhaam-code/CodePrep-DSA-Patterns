@@ -2,8 +2,8 @@
 
 ## 📊 Overall Progress
 
-- **Solved Count:** 3 / 178
-- **Completion Percentage:** 2%
+- **Solved Count:** 1 / 178
+- **Completion Percentage:** 1%
 
 ## 📂 Patterns Progress
 
@@ -23,14 +23,14 @@
 - [ ] Single Number III
 - [ ] XOR Queries of a Subarray
 
-### Breadth-first-search-bfs (0 / 4 - 0%)
+### Breadth-first-search-bfs (1 / 4 - 25%)
 - [ ] As Far from Land as Possible
 - [ ] Rotting Oranges
-- [ ] Shortest Path in Binary Matrix
+- [x] Shortest Path in Binary Matrix
 - [ ] Word Ladder
 
-### Cyclic-sort-index-based (1 / 3 - 33%)
-- [x] Find All Numbers Disappeared in an Array
+### Cyclic-sort-index-based (0 / 3 - 0%)
+- [ ] Find All Numbers Disappeared in an Array
 - [ ] First Missing Positive
 - [ ] Set Mismatch
 
@@ -86,10 +86,10 @@
 - [ ] Unique Paths II
 - [ ] Wildcard Matching
 
-### Fast-and-slow-pointer (2 / 4 - 50%)
-- [x] Find the Duplicate Number
+### Fast-and-slow-pointer (0 / 4 - 0%)
+- [ ] Find the Duplicate Number
 - [ ] Linked List Cycle II
-- [x] Palindrome Linked List
+- [ ] Palindrome Linked List
 - [ ] Remove Nth Node From End of List
 
 ### Graphs (0 / 9 - 0%)
