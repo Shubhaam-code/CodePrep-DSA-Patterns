@@ -2,8 +2,8 @@
 
 ## 📊 Overall Progress
 
-- **Solved Count:** 2 / 178
-- **Completion Percentage:** 1%
+- **Solved Count:** 3 / 178
+- **Completion Percentage:** 2%
 
 ## 📂 Patterns Progress
 
@@ -29,8 +29,8 @@
 - [ ] Shortest Path in Binary Matrix
 - [ ] Word Ladder
 
-### Cyclic-sort-index-based (0 / 3 - 0%)
-- [ ] Find All Numbers Disappeared in an Array
+### Cyclic-sort-index-based (1 / 3 - 33%)
+- [x] Find All Numbers Disappeared in an Array
 - [ ] First Missing Positive
 - [ ] Set Mismatch
 
