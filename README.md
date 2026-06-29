@@ -2,7 +2,7 @@
 
 ## 📊 Overall Progress
 
-- **Solved Count:** 1 / 178
+- **Solved Count:** 2 / 178
 - **Completion Percentage:** 1%
 
 ## 📂 Patterns Progress
@@ -86,11 +86,11 @@
 - [ ] Unique Paths II
 - [ ] Wildcard Matching
 
-### Fast-and-slow-pointer (1 / 4 - 25%)
+### Fast-and-slow-pointer (2 / 4 - 50%)
 - [ ] Find the Duplicate Number
 - [x] Linked List Cycle II
 - [ ] Palindrome Linked List
-- [ ] Remove Nth Node From End of List
+- [x] Remove Nth Node From End of List
 
 ### Graphs (0 / 9 - 0%)
 - [ ] Accounts Merge
