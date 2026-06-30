@@ -23,10 +23,10 @@
 - [ ] Single Number III
 - [ ] XOR Queries of a Subarray
 
-### Breadth-first-search-bfs (1 / 4 - 25%)
+### Breadth-first-search-bfs (0 / 4 - 0%)
 - [ ] As Far from Land as Possible
 - [ ] Rotting Oranges
-- [x] Shortest Path in Binary Matrix
+- [ ] Shortest Path in Binary Matrix
 - [ ] Word Ladder
 
 ### Cyclic-sort-index-based (0 / 3 - 0%)
@@ -86,9 +86,9 @@
 - [ ] Unique Paths II
 - [ ] Wildcard Matching
 
-### Fast-and-slow-pointer (0 / 4 - 0%)
+### Fast-and-slow-pointer (1 / 4 - 25%)
 - [ ] Find the Duplicate Number
-- [ ] Linked List Cycle II
+- [x] Linked List Cycle II
 - [ ] Palindrome Linked List
 - [ ] Remove Nth Node From End of List
 
