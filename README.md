@@ -86,9 +86,9 @@
 - [ ] Unique Paths II
 - [ ] Wildcard Matching
 
-### Fast-and-slow-pointer (1 / 4 - 25%)
+### Fast-and-slow-pointer (0 / 4 - 0%)
 - [ ] Find the Duplicate Number
-- [x] Linked List Cycle II
+- [ ] Linked List Cycle II
 - [ ] Palindrome Linked List
 - [ ] Remove Nth Node From End of List
 
@@ -143,9 +143,9 @@
 - [ ] Next Greater Node In Linked List
 - [ ] Online Stock Span
 
-### Overlapping-intervals (0 / 5 - 0%)
+### Overlapping-intervals (1 / 5 - 20%)
 - [ ] Insert Interval
-- [ ] Merge Intervals
+- [x] Merge Intervals
 - [ ] Minimum Number of Arrows to Burst Balloons
 - [ ] My Calendar II
 - [ ] Non-overlapping Intervals
